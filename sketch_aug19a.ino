@@ -1,5 +1,5 @@
 #define LED_BUILTIN 13
-#define BUTTON_PIN 2 // Change this to the pin where your button is connected
+#define BUTTON_PIN 2 
 
 String name;
 int buttonState = 0;
